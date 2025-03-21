@@ -7,3 +7,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
 
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark)
+
+
