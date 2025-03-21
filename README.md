@@ -1,4 +1,4 @@
-# Hi, I'm Nischal Singana  👋 ![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">, I'm Nischal Singana 
 
 - 🎓 B.Tech CSE Student
 - 💻 Learning Web Development
