@@ -7,7 +7,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KL2400030188&layout=compact&theme=dark&cache_seconds=86400)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KL2400030188&theme=dark&cache_seconds=86400)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ## 🌐 Connect with me:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singananischal@gmail.com)
