@@ -4,7 +4,7 @@
 - 💻 Learning Web Development
 - 🚀 Exploring Open Source
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KL2400030188&layout=compact&theme=dark&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NischalSingana&layout=compact&theme=dark&cache_seconds=86400)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NischalSingana&theme=dark&cache_seconds=86400)
 
