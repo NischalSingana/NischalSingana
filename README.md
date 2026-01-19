@@ -4,8 +4,6 @@
 - 💻 Learning Web Development
 - 🚀 Exploring Open Source
 
-![Nischal's GitHub stats](https://github-readme-stats.vercel.app/api?username=NischalSingana&hide=contribs,prs)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NischalSingana&theme=dark&cache_seconds=86400)
 
 ## 🌐 Connect with me:
