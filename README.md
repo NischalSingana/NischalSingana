@@ -5,7 +5,6 @@
 - 🚀 Exploring Open Source
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NischalSingana&theme=dark&cache_seconds=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NischalSingana&theme=dark)
 
 ## 🌐 Connect with me:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singananischal@gmail.com)
