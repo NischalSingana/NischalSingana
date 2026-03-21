@@ -6,31 +6,49 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NischalSingana&theme=dark&cache_seconds=1)
 
+
 ## 🚀 Tech Stack
 
 ### 🧠 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,python" />
+<p style="display:flex; flex-wrap:wrap; gap:12px;">
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind,spring" />
+<p style="display:flex; flex-wrap:wrap; gap:12px;">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
 ### ☁️ Serverless & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,cloudflare" />
+<p style="display:flex; flex-wrap:wrap; gap:12px;">
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" />
 </p>
 
 ### 🗄️ Databases & ORMs
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,hibernate" />
+<p style="display:flex; flex-wrap:wrap; gap:12px;">
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=prisma" />
+  <img src="https://skillicons.dev/icons?i=hibernate" />
 </p>
 
 ### 🚀 DevOps & Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws" />
+<p style="display:flex; flex-wrap:wrap; gap:12px;">
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
+  <img src="https://skillicons.dev/icons?i=githubactions" />
+  <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 ## 🌐 Connect with me:
