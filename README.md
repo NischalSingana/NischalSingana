@@ -1,14 +1,11 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">, I'm Nischal Singana! 
 
-<div align="center">
-
 💻 <b>Full-Stack Developer</b>  
 ⚙️ Building performant and scalable web applications  
 🌐 Experienced across frontend, backend, databases, and cloud  
 🚀 Continuously learning, optimizing, and shipping high-quality code  
 🔍 Exploring Open Source and modern development practices  
 
-</div>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NischalSingana&theme=dark&cache_seconds=1)
 
