@@ -47,7 +47,7 @@
 <p style="display:flex; flex-wrap:wrap; gap:12px;">
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://skillicons.dev/icons?i=kubernetes" />
-  <img src="https://skillicons.dev/icons?i=githubactions" />
+  <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
